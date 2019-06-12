@@ -1,0 +1,8 @@
+
+gsquid:CommentedOutCodeLine
+"<This block of commented-out lines of code should be removed.(è¦±ôúÿÿÿÿ
+bsquid:S3027"FPut single-quotes around '1' to use the faster "indexOf(char)" method.(–¯Çïùÿÿÿÿ
+fsquid:S3027"JPut single-quotes around '1' to use the faster "lastIndexOf(char)" method.(–¯Çïùÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ß’Š•øÿÿÿÿ
+3squid:S1643"Use a StringBuilder instead.(­ØÜ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(…¬í³

@@ -1,0 +1,14 @@
+
+hsquid:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(ä‡ƒŸýÿÿÿÿ
+t
+squid:S135/"YReduce the total number of break and continue statements in this loop to use at most one.(°ÒÌÐýÿÿÿÿ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Þ³‹Ç
+Ksquid:S2864p"4Iterate over the "entrySet" instead of the "keySet".(«—‡ä
+nsquid:S3776R"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(¤ö‡Ùþÿÿÿÿ
+[squid:S2147`"DCombine this catch with the one at line 94, which has the same body.(ï­£Ä
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(üïç
+?squid:S1148a"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+T
+squid:S106n"9Replace this use of System.out or System.err by a logger.(½É³áûÿÿÿÿ
+?squid:S1148_"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡ÈšÊÿÿÿÿÿ
